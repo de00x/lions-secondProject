@@ -1,8 +1,8 @@
 {
-  "name": "webpack-frontend-template",
+  "name": "second-project-de00x",
   "version": "1.0.0",
-  "description": "Готовая Webpack 5 - сборка для ваших проектов!",
-  "author": "Brovkin Artem <brovkin.on@gmail.com>",
+  "description": "second-project-de00x",
+  "author": "de00x190997@gmail.com",
   "keywords": [
     "js",
     "javascript",
@@ -11,7 +11,7 @@
   "homepage": ".",
   "private": true,
   "license": "MIT",
-  "repository": "https://github.com/brovkin/webpack-frontend-template",
+  "repository": "github.com/de00x/lions-secondProject",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --mode development",
     "build": "cross-env NODE_ENV=production webpack --mode production",
